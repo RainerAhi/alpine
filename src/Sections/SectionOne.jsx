@@ -30,7 +30,7 @@ export const SectionOne = () => {
               <img class="smalllogo" src="/bluelogo.png" alt="logohere" />
           </div>
           <div class="center">
-              <h1>ALPINE</h1>
+              <h1>WEBSITE</h1>
           </div>
       </div>
       <div className="content-one" >
